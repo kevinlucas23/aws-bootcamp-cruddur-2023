@@ -1,5 +1,2 @@
-.env.example
 
 .venv/
-
-.gitignore
